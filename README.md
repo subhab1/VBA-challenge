@@ -1,6 +1,6 @@
 # VBA-challenge
 ## Link for the google drive
-* https://drive.google.com/file/d/14z-HIVR1l5HttvZywJ41Ja62HMoojEOn/view?usp=drive_link
+* https://drive.google.com/file/d/14z-HIVR1l5HttvZywJ41Ja62HMoojEOn/view?usp=sharing
 ## REFERENCES:
 * https://excelchamps.com/vba/loop-sheets/
 * Beginning value setting as open_price ws.cell(2,3).value,&
